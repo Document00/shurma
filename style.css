@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+      padding: 0;
+  }
+  .full-website{
+      text-align: center;
+      color: #fff;
+      width: 1024px;
+      margin: 10px auto;
+      box-shedow:1px 1px 6px rgba(0,0,0,4)
+  } 
+  .menu{
+      background:#9b59b6;
+  }
+  .container{
+      background-color: #2980b9;
+  
+  }
+  .footer{
+      background: #2c3e50;
+  
+  }
+  .footer-bottom{
+     background:  #2c3e50;
+  }
+  img{
+      max-width: 100%;
+      margin-bottom: _5px;
+  }
+  .op{
+      padding:30px 0
+  }
+  .opx{
+      padding:60px 0;
+  }
+  
